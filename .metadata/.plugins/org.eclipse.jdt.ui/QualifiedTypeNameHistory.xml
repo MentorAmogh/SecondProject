@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.niit.collaborationbackend.model.UserBlog"/>
+<fullyQualifiedTypeName name="com.niit.collaborationbackend.model.UserProfile"/>
+<fullyQualifiedTypeName name="com.niit.collaborationbackend.model.UserRole"/>
+<fullyQualifiedTypeName name="com.niit.collaborationbackend.model.EventMaster"/>
+<fullyQualifiedTypeName name="com.niit.collaborationbackend.model.ForumCategory"/>
+<fullyQualifiedTypeName name="com.niit.collaborationbackend.model.ChatForumComment"/>
+<fullyQualifiedTypeName name="com.niit.collaborationbackend.model.ChatForum"/>
+<fullyQualifiedTypeName name="com.niit.collaborationbackend.model.JobApplication"/>
+<fullyQualifiedTypeName name="com.niit.collaborationbackend.model.UserType"/>
+<fullyQualifiedTypeName name="com.niit.collaborationbackend.dao.UserProfileDAO"/>
+<fullyQualifiedTypeName name="com.niit.collaborationbackend.dao.UserRoleDAO"/>
+</qualifiedTypeNameHistroy>
