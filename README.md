@@ -69,9 +69,11 @@ purpose . It has database url id and password details for connecting frontend to
 		- UserProfile.java
 		- UserRole.java
 		- UserType.java
+		
+		
 ##The frontend contains following directory structure##
 
-	**/CollaborationFrontEndJava/src/main/webapp**
+	** /CollaborationFrontEndJava/src/main/webapp **
 		resources
 			- asssets
 				---css
