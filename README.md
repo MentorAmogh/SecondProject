@@ -8,7 +8,8 @@ Config folder contains information and data needed by server for autherisation
 purpose . It has database url id and password details for connecting frontend to database
 ##The backend contains following directory structure##
 
-*/CollaborationBackEndJava/src/main/java/com/niit/collaborationbackend*
+
+**/CollaborationBackEndJava/src/main/java/com/niit/collaborationbackend**
 
 	Config
 		- AppConfig.java
@@ -69,7 +70,8 @@ purpose . It has database url id and password details for connecting frontend to
 		- UserRole.java
 		- UserType.java
 ##The frontend contains following directory structure##
-	*/CollaborationFrontEndJava/src/main/webapp*
+
+	**/CollaborationFrontEndJava/src/main/webapp**
 		resources
 			- asssets
 				---css
