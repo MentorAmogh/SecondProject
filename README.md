@@ -6,6 +6,7 @@ backend project to seperate the presentation logic from database.
 Backend contains following folders which is user to commect to Orcle Database
 Config folder contains information and data needed by server for autherisation 
 purpose . It has database url id and password details for connecting frontend to database
+
 **/CollaborationBackEndJava/src/main/java/com/niit/collaborationbackend**
 	Config
 		- AppConfig.java
