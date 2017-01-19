@@ -75,7 +75,7 @@ purpose . It has database url id and password details for connecting frontend to
 
 
 
-	**/CollaborationFrontEndJava/src/main/webapp**
+	__/CollaborationFrontEndJava/src/main/webapp__
 		resources
 			- asssets
 				---css
