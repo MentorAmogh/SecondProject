@@ -9,7 +9,7 @@ purpose . It has database url id and password details for connecting frontend to
 ## The backend contains following directory structure ##
 
 
-__ /CollaborationBackEndJava/src/main/java/com/niit/collaborationbackend __
+__/CollaborationBackEndJava/src/main/java/com/niit/collaborationbackend__
 
 	Config
 		- AppConfig.java
