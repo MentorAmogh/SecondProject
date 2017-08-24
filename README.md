@@ -1,4 +1,4 @@
-##Project developed by Mentor Amogh Chitnis as part of DT Evaluation process##
+# Project developed by Mentor Amogh Chitnis as part of DT Evaluation process #
 
 
 For the "collaboration and Chat" project I have created a frontend project and a
@@ -6,10 +6,10 @@ backend project to seperate the presentation logic from database.
 Backend contains following folders which is user to connect to Orcle Database
 Config folder contains information and data needed by server for autherisation 
 purpose . It has database url id and password details for connecting frontend to database
-##The backend contains following directory structure##
+## The backend contains following directory structure ##
 
 
-**/CollaborationBackEndJava/src/main/java/com/niit/collaborationbackend**
+__ /CollaborationBackEndJava/src/main/java/com/niit/collaborationbackend __
 
 	Config
 		- AppConfig.java
@@ -71,7 +71,7 @@ purpose . It has database url id and password details for connecting frontend to
 		- UserType.java
 		
 		
-##The frontend contains following directory structure##
+## The frontend contains following directory structure ##
 
 
 
